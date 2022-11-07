@@ -3,7 +3,7 @@
 ## DolceFioko | @sBloccando | Fioko#3560 👋
 
 
-<a align=center href="web.telegram.org/@sBloccando"><img src="https://readme-typing-svg.herokuapp.com?font=Courrier&size=25&duration=2500&pause=1000&color=000000&background=FFFFFFFF&height=40&lines=My+Discord+%2F Fioko#3560;I+love+%2u;+If+u+wanna+this+%3A+fork+this;Star+my+content+%3C3"/></a>
+<a align=center href="web.telegram.org/@sBloccando">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=1000&width=435&lines=Discord%3A+Fioko%233560;Telegram%3A+%40sBloccando;Twitter%3A+%40controllavo;What+u+want%3F;Need+help%3F+Write+me+on+socials;I%E2%99%A5u)](https://git.io/typing-svg)</a>
 
 <div align=center>
 <a href=""><img src="https://alessandrobasi.altervista.org/archivio/habbotext/text/generate.php?str=fioko&font=14" height=25></a>
